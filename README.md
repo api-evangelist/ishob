@@ -64,5 +64,135 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ISHOB is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://ishob.com
+ISHOB (Intelligent Service Hub for Autonomous Bots) offers a marketplace of 43 micro‑utility APIs (x402) that agents can call without API keys. Services span crypto risk, web extraction, screenshots, weather, company data, and more, with pay‑per‑call pricing in USDC on Base. The platform provides an MCP endpoint (api.ishob.com/mcp) and a public OpenAPI spec (api.ishob.com/openapi.json). It targets autonomous AI agents needing on‑chain, stateless tool access.
+
+**Areas:** Company · Artificial Intelligence · Micro-utilities · AutonomousAgents · Cryptocurrency
+
+## ISHOB on APIs.io
+
+Everything profiled for ISHOB is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ishob/](https://apis.io/providers/ishob/)** — or go straight to one of the APIs or properties below.
+
+### APIs (31)
+
+- [ISHOB Alarm API](https://apis.io/apis/ishob/ishob-alarm-api/) — The Alarm API from ISHOB — 2 operation(s) for alarm.
+- [ISHOB Barcode API](https://apis.io/apis/ishob/ishob-barcode-api/) — The Barcode API from ISHOB — 2 operation(s) for barcode.
+- [ISHOB Catalog API](https://apis.io/apis/ishob/ishob-catalog-api/) — The Catalog API from ISHOB — 1 operation(s) for catalog.
+- [ISHOB Company Snapshot API](https://apis.io/apis/ishob/ishob-company-snapshot-api/) — The Company Snapshot API from ISHOB — 1 operation(s) for company snapshot.
+- [ISHOB Crypto API](https://apis.io/apis/ishob/ishob-crypto-api/) — The Crypto API from ISHOB — 13 operation(s) for crypto.
+- [ISHOB Dataset API](https://apis.io/apis/ishob/ishob-dataset-api/) — The Dataset API from ISHOB — 1 operation(s) for dataset.
+- [ISHOB Datasets API](https://apis.io/apis/ishob/ishob-datasets-api/) — The Datasets API from ISHOB — 1 operation(s) for datasets.
+- [ISHOB Document API](https://apis.io/apis/ishob/ishob-document-api/) — The Document API from ISHOB — 3 operation(s) for document.
+- [ISHOB Domain API](https://apis.io/apis/ishob/ishob-domain-api/) — The Domain API from ISHOB — 1 operation(s) for domain.
+- [ISHOB Embed API](https://apis.io/apis/ishob/ishob-embed-api/) — The Embed API from ISHOB — 1 operation(s) for embed.
+- [ISHOB Extract API](https://apis.io/apis/ishob/ishob-extract-api/) — The Extract API from ISHOB — 1 operation(s) for extract.
+- [ISHOB Feed Reader API](https://apis.io/apis/ishob/ishob-feed-reader-api/) — The Feed Reader API from ISHOB — 1 operation(s) for feed reader.
+- [ISHOB Finance API](https://apis.io/apis/ishob/ishob-finance-api/) — The Finance API from ISHOB — 1 operation(s) for finance.
+- [ISHOB Geocode API](https://apis.io/apis/ishob/ishob-geocode-api/) — The Geocode API from ISHOB — 1 operation(s) for geocode.
+- [ISHOB Location Report API](https://apis.io/apis/ishob/ishob-location-report-api/) — The Location Report API from ISHOB — 1 operation(s) for location report.
+- [ISHOB MCP API](https://apis.io/apis/ishob/ishob-mcp-api/) — The Mcp API from ISHOB — 1 operation(s) for mcp.
+- [ISHOB Metadata API](https://apis.io/apis/ishob/ishob-metadata-api/) — The Metadata API from ISHOB — 1 operation(s) for metadata.
+- [ISHOB Pdf Tables API](https://apis.io/apis/ishob/ishob-pdf-tables-api/) — The Pdf Tables API from ISHOB — 1 operation(s) for pdf tables.
+- [ISHOB Ping Status API](https://apis.io/apis/ishob/ishob-ping-status-api/) — The Ping Status API from ISHOB — 1 operation(s) for ping status.
+- [ISHOB Product Code API](https://apis.io/apis/ishob/ishob-product-code-api/) — The Product Code API from ISHOB — 1 operation(s) for product code.
+- [ISHOB Render Doc API](https://apis.io/apis/ishob/ishob-render-doc-api/) — The Render Doc API from ISHOB — 1 operation(s) for render doc.
+- [ISHOB Research Brief API](https://apis.io/apis/ishob/ishob-research-brief-api/) — The Research Brief API from ISHOB — 1 operation(s) for research brief.
+- [ISHOB Screenshot API](https://apis.io/apis/ishob/ishob-screenshot-api/) — The Screenshot API from ISHOB — 1 operation(s) for screenshot.
+- [ISHOB Search API](https://apis.io/apis/ishob/ishob-search-api/) — The Search API from ISHOB — 2 operation(s) for search.
+- [ISHOB Site Audit API](https://apis.io/apis/ishob/ishob-site-audit-api/) — The Site Audit API from ISHOB — 1 operation(s) for site audit.
+- [ISHOB Site Speed API](https://apis.io/apis/ishob/ishob-site-speed-api/) — The Site Speed API from ISHOB — 1 operation(s) for site speed.
+- [ISHOB Specs API](https://apis.io/apis/ishob/ishob-specs-api/) — The Specs API from ISHOB — 1 operation(s) for specs.
+- [ISHOB Stats API](https://apis.io/apis/ishob/ishob-stats-api/) — The Stats API from ISHOB — 1 operation(s) for stats.
+- [ISHOB Topic API](https://apis.io/apis/ishob/ishob-topic-api/) — The Topic API from ISHOB — 1 operation(s) for topic.
+- [ISHOB Topics API](https://apis.io/apis/ishob/ishob-topics-api/) — The Topics API from ISHOB — 1 operation(s) for topics.
+- [ISHOB Weather API](https://apis.io/apis/ishob/ishob-weather-api/) — The Weather API from ISHOB — 1 operation(s) for weather.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Ishob Agentic Access](https://apis.io/agentic-access/ishob/ishob-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Ishob Openapi Overlay](https://apis.io/overlays/ishob/ishob-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ISHOB API Rules](https://apis.io/rules/ishob/ishob-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ishob Domain Security](https://apis.io/security/ishob/ishob-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ishob.com)
+- [Documentation](https://ishob.com/tools)
+- [API reference](https://api.ishob.com/openapi.json)
+- [Terms of service](https://ishob.com/terms)
+- [Privacy policy](https://ishob.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 28.1** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 69.6 |
+| Contract quality | 47.5 |
+| Contract governance | 18.2 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 21.1 |
+
+**Agent readiness 22.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | documented (partial credit) |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.6** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ishob/](https://apis.io/providers/ishob/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ISHOB: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ishob/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
